@@ -12,6 +12,12 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
+        android:id="@+id/navigation_persons"
+        android:name="com.example.segurosapp.ui.persons.PersonsFragment"
+        android:label="@string/title_persons"
+        tools:layout="@layout/fragment_persons" />
+
+    <fragment
         android:id="@+id/navigation_dashboard"
         android:name="com.example.segurosapp.ui.dashboard.DashboardFragment"
         android:label="@string/title_dashboard"
