@@ -18,14 +18,14 @@
         tools:layout="@layout/fragment_persons" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
-        android:name="com.example.segurosapp.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        android:id="@+id/navigation_companies"
+        android:name="com.example.segurosapp.ui.companies.CompaniesFragment"
+        android:label="@string/title_companies"
+        tools:layout="@layout/fragment_companies" />
 
     <fragment
-        android:id="@+id/navigation_notifications"
-        android:name="com.example.segurosapp.ui.notifications.NotificationsFragment"
-        android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        android:id="@+id/navigation_form"
+        android:name="com.example.segurosapp.ui.form.FormFragment"
+        android:label="@string/title_form"
+        tools:layout="@layout/fragment_form" />
 </navigation>

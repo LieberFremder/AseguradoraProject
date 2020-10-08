@@ -1,16 +1,15 @@
-package com.example.segurosapp.ui.dashboard;
+package com.example.segurosapp.ui.companies;
 
 import android.arch.lifecycle.LiveData;
 import android.arch.lifecycle.MutableLiveData;
 import android.arch.lifecycle.ViewModel;
 
-public class DashboardViewModel extends ViewModel {
-
+public class CompaniesViewModel extends ViewModel {
     private MutableLiveData<String> mText;
 
-    public DashboardViewModel() {
+    public CompaniesViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is dashboard fragment");
+        mText.setValue("This is companies fragment!!!");
     }
 
     public LiveData<String> getText() {

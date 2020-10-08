@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Dafuturo</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_home">Inicio</string>
     <string name="title_persons">Personas</string>
+    <string name="title_companies">Empresas</string>
+    <string name="title_form">Contacto</string>
 </resources>
