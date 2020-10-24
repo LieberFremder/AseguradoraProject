@@ -4,4 +4,23 @@
     <string name="title_persons">Personas</string>
     <string name="title_companies">Empresas</string>
     <string name="title_form">Contacto</string>
+    <string name="title_cardp_0">VIDA</string>
+    <string name="title_cardp_1">SALUD</string>
+    <string name="title_cardp_2">AUTOS</string>
+    <string name="title_cardp_3">HOGAR</string>
+    <string name="title_cardp_4">ARRIENDOS</string>
+    <string name="title_cardp_5">EDUCATIVO</string>
+    <string name="title_cardc_0">COLECTIVOS</string>
+    <string name="title_cardc_1">EMPRESARIAL</string>
+    <string name="title_cardc_2">ARL</string>
+    <string name="descrip_cardp_0">Porque sabemos que tus sueños y tu autonomía son esenciales para que te sientas pleno, te acompañamos incondicionalmente con el fin de que vivas intensamente​ cada momento.</string>
+    <string name="descrip_cardp_1">Entre más conocemos de ti, más podemos cuidarte. Por eso, ponemos a tu disposición diferentes programas y servicios que te cuidan a ti y a los que más quieres.</string>
+    <string name="descrip_cardp_2">Queremos que te movilices seguro, por esta razón comparamos las mejores compañías para que tengas el seguro todo riesgo que mas se ajusta a tus necesidades.</string>
+    <string name="descrip_cardp_3">Sabemos que tu vivienda y lo que tienes dentro de ella lo has conseguido con esfuerzo, por eso te protegemos contra todo lo que le pued​a pasar.</string>
+    <string name="descrip_cardp_4">Garantizar tus ingresos como arrendador en caso de que tu inquilino incumpla con el pago del canon de arrendamiento, servicios, administración.</string>
+    <string name="descrip_cardp_5">Aseguramos los proyectos educativos desde que son sueños. Planea desde hoy tu proyecto educativo y el de tus seres queridos.</string>
+    <string name="descrip_cardc_0">Sabemos que tus colaboradores son el motor de tu empresa por esta razón los acompañamos en proteger sus riesgos con las mejores tarifas  gracias a las pólizas colectivas.</string>
+    <string name="descrip_cardc_1">Contamos con un amplio portafolio respaldado por las mejores aseguradoras del país,  para poder proteger  todo tipo de riego al que puedan estar expuestas en el día a día.</string>
+    <string name="descrip_cardc_2">Nuestro objetivo es  apoyar y asesorar a las Empresas en la administración y manejo de Riesgos Laborales, gracias al respaldo de las mejores compañías de seguros del país.</string>
+    <string name="text_btn_call">LLAMANOS!</string>
 </resources>

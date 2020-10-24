@@ -5,13 +5,12 @@
     <item
         android:id="@+id/navigation_home"
         android:icon="@drawable/ic_home_black_24dp"
-        android:title="@string/title_home"
-        app:showAsAction="always" />
+        android:title="@string/title_home"/>
 
     <item
         android:id="@+id/navigation_persons"
         android:icon="@drawable/ic_persons_black_24dp"
-        android:title="@string/title_persons" />
+        android:title="@string/title_persons"/>
 
     <item
         android:id="@+id/navigation_companies"
