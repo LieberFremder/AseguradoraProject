@@ -36,9 +36,9 @@ public class PersonsFragment extends Fragment {
             cardView.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    //this event will be called when a specific card is clicked
+                    //this function will be executed when a specific card is clicked
                     Intent i = new Intent(getActivity(), CardActivity.class);
-                    i.putExtra("CardId",cardID);
+                    i.putExtra("CardId",cardID);//cardID has the value (ID) of the clicked card
                     i.putExtra("CardType","personas");
                     startActivity(i);
                 }
